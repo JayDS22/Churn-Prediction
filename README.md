@@ -1,4 +1,4 @@
-# Churn-Prediction
+# Churn-Prediction 
 
 ## Over-View
 
@@ -53,7 +53,7 @@ Go to Anaconda Prompt, and run the below query.
 ```
 python app.py
 ```
-
+### APP : [file:///C:/Users/jay.guwalani/Desktop/home.html]
 
 Below message in Python shell is seen, which indicates that our App is now hosted at http://127.0.0.1:5000/ or localhost:5000
 ```
